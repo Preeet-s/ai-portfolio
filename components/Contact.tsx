@@ -18,7 +18,7 @@ export default function Contact() {
         <div className="grid gap-4 text-gray-300 md:grid-cols-2">
           <div>
             <p className="text-sm text-gray-500">Email</p>
-            <p>your.email@example.com</p>
+            <p>preetpro.learning@gmail.com</p>
           </div>
 
           <div>
@@ -28,12 +28,16 @@ export default function Contact() {
 
           <div>
             <p className="text-sm text-gray-500">GitHub</p>
-            <p>github.com/preetsumara</p>
+            <a href="https://github.com/Preeet-s">
+            <p>Preeet-s</p>
+            </a>
           </div>
 
           <div>
             <p className="text-sm text-gray-500">LinkedIn</p>
-            <p>linkedin.com/in/https://www.linkedin.com/in/preet-sumara/</p>
+            <a href="https://www.linkedin.com/in/preet-sumara/">
+            <p>Preet Sumara</p>
+            </a>
           </div>
         </div>
       </div>

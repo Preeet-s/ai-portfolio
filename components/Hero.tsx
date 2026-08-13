@@ -34,7 +34,7 @@ export default function Hero() {
           </a>
 
           <a
-            href="https://github.com/preetsumara"
+            href="https://github.com/Preeet-s"
             target="_blank"
             rel="noreferrer"
             className="rounded-xl border border-gray-700 px-5 py-3 font-medium transition hover:border-gray-500"

@@ -12,9 +12,10 @@ const projects = [
       "LangChain",
       "Sentence Transformers",
     ],
-    github: "https://github.com/yourusername/rag-chatbot",
+    github: "https://github.com/Preeet-s/rag-pdf-chatbot",
     demo: "/projects/rag-chatbot",
     image: "/projects/rag-chatbot.png",
+    slug: "rag-chatbot",
   },
   {
   title: "Mini AutoML Explorer",
@@ -27,9 +28,11 @@ const projects = [
     "Pandas",
     "Plotly",
   ],
-  github: "https://github.com/yourusername/automl-explorer",
+  github: "https://github.com/Preeet-s/mini-automl-explorer",
   demo: "/projects/automl",
   image: "/projects/automl-dashboard.png",
+  slug: "automl",
+
   },
   {
   title: "Sentiment Analysis System",
@@ -42,9 +45,11 @@ const projects = [
     "Tailwind CSS",
     "NLP",
   ],
-  github: "https://github.com/yourusername/sentiment-analysis",
+  github: "https://github.com/Preeet-s/sentiment-analysis-system",
   demo: "/projects/sentiment-analysis",
   image: "/projects/sentiment-dashboard.png",
+  slug: "sentiment-analysis",
+
   },
   {
   title: "Resume Analyzer",
@@ -57,9 +62,10 @@ const projects = [
     "Scikit-learn",
     "pdfplumber",
   ],
-  github: "https://github.com/yourusername/resume-analyzer",
+  github: "https://github.com/Preeet-s/resume-analyzer",
   demo: "/projects/resume-analyzer",
   image: "/projects/resume-analyzer.png",
+  slug: "resume-analyzer",
 }
 ];
 

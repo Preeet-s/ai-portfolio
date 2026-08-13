@@ -324,15 +324,20 @@ response = llm.generate(prompt)`}
 
         {/* CTA */}
         <div className="flex flex-wrap gap-4">
-          <a
+          {/* <a
             href="https://your-rag-demo.streamlit.app"
             target="_blank"
             rel="noreferrer"
             className="rounded-xl bg-green-500 px-6 py-3 font-medium text-black transition hover:bg-green-400"
           >
             Live Demo
-          </a>
-
+          </a> */}
+        <Link
+            href="/projects/rag-chatbot/architecture"
+            className="rounded-xl border border-green-500 px-6 py-3 font-medium text-green-400 transition hover:bg-green-500 hover:text-black"
+        >
+          Open Architecture Playground
+        </Link>
           <a
             href="https://github.com/yourusername/rag-chatbot"
             target="_blank"

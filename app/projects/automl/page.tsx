@@ -215,14 +215,14 @@ export default function AutoMLPage() {
         </section>
 
         <div className="flex flex-wrap gap-4">
-          <a
+          {/* <a
             href="https://your-automl-demo.streamlit.app"
             target="_blank"
             rel="noreferrer"
             className="rounded-xl bg-green-500 px-6 py-3 font-medium text-black transition hover:bg-green-400"
           >
             Live Demo
-          </a>
+          </a> */}
           <a
             href="https://github.com/yourusername/automl-explorer"
             target="_blank"

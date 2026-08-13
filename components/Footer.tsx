@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-4 px-6 text-sm text-gray-400 md:flex-row">
         <p>© {new Date().getFullYear()} Preet Sumara. All rights reserved.</p>
         <div className="flex gap-4">
-          <a href="https://github.com/preetsumara" className="hover:text-white">
+          <a href="https://github.com/Preeet-s" className="hover:text-white">
             GitHub
           </a>
           <a href="https://www.linkedin.com/in/preet-sumara/" className="hover:text-white">
